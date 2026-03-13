@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   searchBar: {
     marginLeft: 22,
-    marginRight: 37,
+    marginRight: 38,
     marginTop: 12,
   },
   sort: {

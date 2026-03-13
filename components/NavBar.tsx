@@ -25,6 +25,6 @@ const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "space-evenly",
         backgroundColor: colors.nav.background,
-        height: 79,
+        height: 80,
     }
 });
