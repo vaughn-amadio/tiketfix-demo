@@ -10,7 +10,7 @@ Tech
 - TypeScript
 
 Structure
-components/ - reusable UI
-constants/ - theme and types
-data/ - mock data
-utils/ - helper functions
+- components/ - reusable UI
+- constants/ - theme and types
+- data/ - mock data
+- utils/ - helper functions
