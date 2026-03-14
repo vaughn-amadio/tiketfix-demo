@@ -14,3 +14,6 @@ Structure
 - constants/ - theme and types
 - data/ - mock data
 - utils/ - helper functions
+
+To run:
+- npx expo start
